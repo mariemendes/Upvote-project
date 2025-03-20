@@ -25,8 +25,6 @@ Initially, the project required only three containers, but I expanded it by addi
 
 ### Prerequisites
 
-List any software or tools that need to be installed beforehand (e.g., Node.js, Python, etc.).
-
 - Node.js - v21.6.2 or more updated
 
 ### Steps
