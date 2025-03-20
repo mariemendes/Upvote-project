@@ -4,7 +4,6 @@
 
 - [Description](#description)
 - [Installation, Running and Testing](#installation)
-- [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -13,7 +12,7 @@
 
 This project is a React-based application designed to implement a customizable upvote system with reusable components. The main objective is to create an upvote feature that toggles between two states—selected and not-selected—with clear visual indicators and efficient state management.
 
-Initially, the project required only three containers, but I expanded it by adding several new features. These include:
+Initially, the project required only three containers, but I expanded it by adding new features:
 
 - An "Add Container" button, allowing users to dynamically add as many containers as needed.
 - A "Reset All" button, enabling users to reset all containers and upvotes to their default state.
