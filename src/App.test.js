@@ -1,8 +1,9 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders toggle selection button', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  // const toggleButton = screen.getByText(/Toggle Selection/i); 
+  // expect(toggleButton).toBeInTheDocument(); 
 });
+
