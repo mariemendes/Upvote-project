@@ -5,15 +5,19 @@
 - [Description](#description)
 - [Installation, Running and Testing](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
 
 ## Description
 
-This project is a React-based application designed to implement a customizable upvote system with reusable components. The goal is to create an upvote feature that can be toggled between two states (selected and not-selected), with proper visual indicators and state management.
+This project is a React-based application designed to implement a customizable upvote system with reusable components. The main objective is to create an upvote feature that toggles between two states—selected and not-selected—with clear visual indicators and efficient state management.
+
+Initially, the project required only three containers, but I expanded it by adding several new features. These include:
+
+- An "Add Container" button, allowing users to dynamically add as many containers as needed.
+- A "Reset All" button, enabling users to reset all containers and upvotes to their default state.
+- A "-" button, which allows users to remove the most recent upvote from any container.
 
 ---
 
@@ -58,6 +62,18 @@ List any software or tools that need to be installed beforehand (e.g., Node.js, 
 
 ---
 
-Created by Mariane Mendes
+## Acknowledgements
+
+This project was created by Mariane Mendes as part of the technical assessment for the company Scrawlr. Through this project, I had the opportunity to dive back into React.js and JavaScript, while also learning a great deal about Jest.js. It was my first time working with test files, and I really enjoyed the process.
+
+Thank you very much for the opportunity!
+
+---
+
+## Contact
+
+- marianemendes1104@gmail.com
+- +1 604 3692968
+- Vancouver/BC - CANADA
 
 
