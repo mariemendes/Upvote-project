@@ -8,7 +8,7 @@ export function UpvoteList() {
     { id: 1, upvotes: [], isSelected: false },
   ]);
 
-  // Função para verificar e resetar isSelected quando necessário
+  // Function to check and reset the isSelected when necessary 
   function checkAndResetSelection(containerId) {
     setContainers(prevContainers =>
       prevContainers.map(container =>
@@ -50,7 +50,7 @@ export function UpvoteList() {
           : container
       )
     );
-    checkAndResetSelection(containerId); // Verifica se deve resetar a seleção após remover upvote
+    checkAndResetSelection(containerId); // Check and reset the selection after remove the upvote
   }
 
   // Function to add a new container
