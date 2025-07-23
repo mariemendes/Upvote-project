@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/upvote-project/static/css/main.4d3a3de3.css",
-    "main.js": "/upvote-project/static/js/main.b257824b.js",
-    "index.html": "/upvote-project/index.html",
-    "main.4d3a3de3.css.map": "/upvote-project/static/css/main.4d3a3de3.css.map",
-    "main.b257824b.js.map": "/upvote-project/static/js/main.b257824b.js.map"
+    "main.css": "/Upvote-project/static/css/main.4d3a3de3.css",
+    "main.js": "/Upvote-project/static/js/main.b257824b.js",
+    "index.html": "/Upvote-project/index.html",
+    "main.4d3a3de3.css.map": "/Upvote-project/static/css/main.4d3a3de3.css.map",
+    "main.b257824b.js.map": "/Upvote-project/static/js/main.b257824b.js.map"
   },
   "entrypoints": [
     "static/css/main.4d3a3de3.css",
