@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/upvote-project/static/css/main.4d3a3de3.css",
+    "main.js": "/upvote-project/static/js/main.b257824b.js",
+    "index.html": "/upvote-project/index.html",
+    "main.4d3a3de3.css.map": "/upvote-project/static/css/main.4d3a3de3.css.map",
+    "main.b257824b.js.map": "/upvote-project/static/js/main.b257824b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3a3de3.css",
+    "static/js/main.b257824b.js"
+  ]
+}
